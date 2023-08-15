@@ -7,10 +7,10 @@ namespace Snake
 {
     class SnakePart
     {
-        public int X { get; set; } // X Coordinate for Snake Part
-        public int Y { get; set; } // Y Coordinate for Snake Part
+        public int X { get; set; } 
+        public int Y { get; set; } 
 
-        // Constructor
+        
         public SnakePart()
         {
             X = 0;
